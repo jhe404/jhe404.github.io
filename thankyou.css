@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background: #b4b5ff;
+    padding: 0 10px;
+}
+.text{
+    text-align: center;
+    color: rgb(255, 251, 0);
+    padding: 10%;
+}
+img{
+    position: absolute;
+    bottom: 30%;
+    right: 25%;
+    width: 50%;
+    height: 40%;  
+}
+button{
+    position: absolute;
+    padding: 0%;
+    bottom: 25%;
+    left: 45%;
+    
+}
+.gmail{
+    position: absolute;
+    padding: 0%;
+    bottom: 20%;
+    left: 47%;
+}
